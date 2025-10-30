@@ -1,0 +1,5 @@
+
+{
+  "name": "AI Map Coloring",
+  "description": "An interactive web application that demonstrates the map coloring problem, a classic constraint satisfaction problem in AI. Select a map and the number of colors, and watch a backtracking algorithm find a valid solution where no two adjacent regions share the same color."
+}
